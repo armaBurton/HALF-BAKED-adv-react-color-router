@@ -5,11 +5,7 @@ import {
   Route,
   Switch, 
   useParams,
-  userLocation,
 } from 'react-router-dom';
-import { useState } from 'react';
-
-
 
 import styles from './App.css';
 
